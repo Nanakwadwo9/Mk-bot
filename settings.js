@@ -16,8 +16,8 @@ require("./all/module.js")
 
 //========== Setting Owner ==========//
 
-global.owner = "263780166288" //replace with your phone number
-global.namaowner = "ᴍᴀʟᴠɪɴ ᴋɪɴɢ" //replace with your name
+global.owner = "233202429182" //replace with your phone number
+global.namaowner = "Nana kwadwo" //replace with your name
 
 
 //======== Setting Bot & Link ========//
@@ -36,7 +36,7 @@ global.author = "ᴍᴀʟᴠɪɴ ᴋɪɴɢ"
 // true or false as you like
 
 global.welcome = true
-global.autoread = false
+global.autoread = true
 global.anticall = false
 global.autoreadsw = true // Auto-read statuses
 global.autolikesw = true // Auto-like statuses
